@@ -12,3 +12,11 @@ Advanced function: Community discovery
 1) K-clique detection algorithm
 2) Modularity-based detection algorithm
 3) Description of the Girvan_newman detection algorithm
+
+UI √
+Visualization √
+
+Requirements:
+matplotlib: command: python -m pip install -U matplotlib
+networkx: command python -m pip install -U networkx
+
